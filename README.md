@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0295-find-median-from-data-stream) |
+| [0344-reverse-string](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
