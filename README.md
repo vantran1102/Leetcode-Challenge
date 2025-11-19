@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0792-binary-search) |
 | [1127-last-stone-weight](https://github.com/vantran1102/Leetcode-Challenge/tree/master/1127-last-stone-weight) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/vantran1102/Leetcode-Challenge/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0242-valid-anagram) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/vantran1102/Leetcode-Challenge/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
