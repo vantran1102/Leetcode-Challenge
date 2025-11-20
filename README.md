@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0792-binary-search) |
 | [1127-last-stone-weight](https://github.com/vantran1102/Leetcode-Challenge/tree/master/1127-last-stone-weight) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0908-middle-of-the-linked-list) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0792-binary-search) |
 ## Binary Tree
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
