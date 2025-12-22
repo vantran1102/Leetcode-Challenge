@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0217-contains-duplicate) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0202-happy-number) |
 ## Memoization
