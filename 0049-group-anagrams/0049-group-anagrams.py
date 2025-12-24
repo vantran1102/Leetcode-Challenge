@@ -1,10 +1,9 @@
-class Solution(object):
-    def groupAnagrams(self, strs):
-        anagram_group={}
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        groups = {}
         for w in strs:
-            key = "".join(sorted(w))
-            if key not in anagram_group:
-                anagram_group[key]=[]
-            anagram_group[key].append(w)
-        return list(anagram_group.values())
-        
+            key = "".join(sorted(w.lower()))
+            if key not in groups:
+                groups[key]=[]
+            groups[key].append(w)
+        return list(groups.values())
