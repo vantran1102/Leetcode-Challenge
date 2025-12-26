@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0792-binary-search) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/vantran1102/Leetcode-Challenge/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -85,17 +88,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/vantran1102/Leetcode-Challenge/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -183,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
@@ -192,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0148-sort-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
