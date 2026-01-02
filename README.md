@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0792-binary-search) |
 | [1127-last-stone-weight](https://github.com/vantran1102/Leetcode-Challenge/tree/master/1127-last-stone-weight) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
