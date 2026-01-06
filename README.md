@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
