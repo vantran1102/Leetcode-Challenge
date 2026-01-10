@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0875-koko-eating-bananas) |
 | [1127-last-stone-weight](https://github.com/vantran1102/Leetcode-Challenge/tree/master/1127-last-stone-weight) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vantran1102/Leetcode-Challenge/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/vantran1102/Leetcode-Challenge/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0875-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
