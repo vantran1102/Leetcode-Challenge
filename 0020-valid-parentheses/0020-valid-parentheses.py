@@ -1,21 +1,18 @@
-
-class Solution(object):
-    def isValid(self, s):
-        my_list = []
-        for c in s:
-            if c in "([{":
-                my_list.append(c)
+class Solution:
+    def isValid(self, s: str) -> bool:
+        stack = []
+        pairs = {
+            ']':'[',
+            '}':'{',
+            ')':'('
+        }
+        for ch in s:
+            if ch in ('{','[','('):
+                stack.append(ch)
             else:
-                if not my_list:
+                if not stack:
                     return False
-                if c == ")":
-                    if my_list.pop()!="(":
-                        return False
-                elif c == ']':
-                    if my_list.pop()!="[":
-                        return False
-                else:
-                    if my_list.pop()!="{":
-                        return False
-        return not my_list
-        
+                top = stack.pop()
+                if top != pairs[ch]:
+                    return False
+        return not stack
