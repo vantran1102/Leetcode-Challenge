@@ -1,14 +1,13 @@
-class Solution(object):
-    def findDuplicate(self, nums):
-        seen = {}
-        for num in nums:
-            if num in seen:
-                seen[num]+=1
-            else:
-                seen[num]=1
-        duplicate=0
-        for value, count in seen.items():
-            if count > 1:
-                duplicate+=value
-        return duplicate
-        
+class Solution:
+    def findDuplicate(self, nums: List[int]) -> int:
+        slow, fast = nums[0], nums[0]
+        finder = nums[0]
+        while True:
+            slow = nums[slow]
+            fast = nums[nums[fast]]
+            if slow == fast:
+                break
+        while finder != slow:
+            finder = nums[finder]
+            slow = nums[slow]
+        return finder
