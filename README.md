@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0567-permutation-in-string) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/vantran1102/Leetcode-Challenge/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Sorting
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0567-permutation-in-string) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vantran1102/Leetcode-Challenge/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Greedy
 |  |
