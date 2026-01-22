@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0226-invert-binary-tree) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0098-validate-binary-search-tree](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0226-invert-binary-tree) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0226-invert-binary-tree) |
