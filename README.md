@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/vantran1102/Leetcode-Challenge/tree/master/1127-last-stone-weight) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vantran1102/Leetcode-Challenge/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/vantran1102/Leetcode-Challenge/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -122,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/vantran1102/Leetcode-Challenge/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -231,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0973-k-closest-points-to-origin) |
 ## Memoization
 |  |
 | ------- |
@@ -275,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0853-car-fleet) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vantran1102/Leetcode-Challenge/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
